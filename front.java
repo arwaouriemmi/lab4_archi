@@ -17,7 +17,7 @@ public class front{
                 }
 
                 if (!messages.equals("Done")) {
-                    System.out.println("Loan Application: Received Notif: " + messages);
+                    System.out.println("Loan Application: Received  a Notif: " + messages);
                 } else {
                     break;
                 }
